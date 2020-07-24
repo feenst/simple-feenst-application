@@ -1,0 +1,25 @@
+{
+  "name": "simple-feenst-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feenst/simple-feenst-application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feenst/simple-feenst-application/issues"
+  },
+  "homepage": "https://github.com/feenst/simple-feenst-application#readme",
+  "dependencies": {
+    "simple-feenst-package": "^1.0.1"
+  },
+  "devDependencies": {
+    "utilist": "^2.2.0"
+  }
+}
